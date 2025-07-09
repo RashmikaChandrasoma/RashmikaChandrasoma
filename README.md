@@ -2,19 +2,17 @@
 
 <div align="center">
   <h3 align="center">Junior Software Engineer @ Cygnus One • Specializing in Odoo ERP</h3>
-  <img src="https://raw.githubusercontent.com/HirushiniChandrasoma/HirushiniChandrasoma/main/images/code.jpg" width="500" height="250"/>
 </div>
 
-- 🚀 Working on **Odoo V16 ERP** modules, POS enhancements & production planning tools at Cygnus One
-- 🌱 Currently exploring **Flutter**, **React Native**, **Android**, and **iOS** development
+- 🚀 Working on **Odoo ERP** modules, POS enhancements & production planning tools at Cygnus One
 - 🎓 Undergraduate at **SLIIT**, balancing academic rigor with real-world implementation experience
 
 <div align="left">
   <a href="mailto:hirushinirashmika.c@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" alt="Gmail"/>
-  </a>&nbsp;
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hirushini-chandrasoma-abb8a7314" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="LinkedIn"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
@@ -26,37 +24,7 @@ As a Junior Software Engineer at **Cygnus One**—an **Odoo Silver Partner** sin
 
 I collaborate closely with senior developers using:
 - 🐍 Python, PostgreSQL, Odoo ORM, XML/QWeb reporting
-- ✅ Tailored solutions for CRM, Inventory, POS, Manufacturing, Accounting
-- 🎯 Onboarding SMEs across manufacturing, retail, hospitality, and more
-
----
-
-### 🛠️ Tech Stack
-
-#### Programming
-C · C# · Java · JavaScript · PHP · Python
-
-#### Web
-HTML5 · CSS3 · React.js · Express.js · Node.js
-
-#### Mobile
-Android · Flutter · React Native
-
-#### Database
-MongoDB · MySQL · PostgreSQL (focus on Odoo’s ORM)
-
-#### Tools
-Git · Postman · Figma · Photoshop
-
----
-
-### 📂 Featured Projects
-
-- **Odoo POS Enhancements** – Custom UI features, realtime analytics, and reporting for F&B clients  
-- **Production Planning Extensions** – Optimized scheduling workflows integrated into Odoo manufacturing  
-- **Onboarding Scripts & Automation** – Python-based automation tools to reduce manual workload during deployments  
-
-*(More coming soon… feel free to reach out if you’d like demos or walkthroughs!)*
+- ✅ Tailored solutions for CRM, Inventory, POS, Manufacturing, Accounting and more
 
 ---
 
@@ -84,16 +52,13 @@ I’m always open to collaboration, mentorship, and open-source contributions—
       <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /><br>Python
     </td>
     <td align="center">
-      <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/odoo/odoo-original.svg" /><br>Odoo V16
+      <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/odoo/odoo-original.svg" /><br>Odoo V18
     </td>
     <td align="center">
       <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /><br>Node.js
     </td>
     <td align="center">
       <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /><br>React
-    </td>
-    <td align="center">
-      <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" /><br>Flutter
     </td>
   </tr>
 </table>
