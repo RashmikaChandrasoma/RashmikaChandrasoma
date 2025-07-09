@@ -20,7 +20,7 @@
 
 ### 💼 About Me
 
-As a Junior Software Engineer at **Cygnus One**—an **Odoo Silver Partner** since 2015 with a track record in ERP implementations across industries—I contribute to module development, customizations, and training under Odoo's enterprise-grade setup :contentReference[oaicite:1]{index=1}.
+As a Junior Software Engineer at **Cygnus One**—an **Odoo Silver Partner** since 2015 with a track record in ERP implementations across industries—I contribute to module development, customizations, and training under Odoo's enterprise-grade setup.
 
 I collaborate closely with senior developers using:
 - 🐍 Python, PostgreSQL, Odoo ORM, XML/QWeb reporting
@@ -43,13 +43,13 @@ I’m always open to collaboration, mentorship, and open-source contributions—
       <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /><br>Python
     </td>
     <td align="center">
-      <img width="70px" src="https://techicons.dev/icons/xml" /><br>XML
+      <img width="60px" src="https://raw.githubusercontent.com/OCA/odoo-community.org/master/logo/oca-logo.png" /><br>Odoo
     </td>
     <td align="center">
-      <img width="70px" src="https://techicons.dev/icons/javascript" /><br>JavaScript
+      <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Xml_logo.svg" /><br>XML
     </td>
     <td align="center">
-      <img width="70px" src="https://www.bing.com/images/search?view=detailV2&ccid=%2bIZXY15p&id=F56A74F92878684555B5901BD3E4C805C465DF35&thid=OIP.-IZXY15paMKY__NloKSUkQHaHa&mediaurl=https%3a%2f%2fcdn4.iconfinder.com%2fdata%2ficons%2flogos-3%2f640%2fodoo_logo_rgb-512.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f88657635e6968c298fff365a0a49491%3frik%3dNd9lxAXI5NMbkA%26pid%3dImgRaw%26r%3d0&exph=512&expw=512&q=odoo+icon&simid=608032826122594083&FORM=IRPRST&ck=28AA9A0E248CE060232168517EB0FEF1&selectedIndex=0&itb=1&idpp=overlayview&ajaxhist=0&ajaxserp=0" /><br>odoo
+      <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /><br>JavaScript
     </td>
   </tr>
 </table>
