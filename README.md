@@ -43,12 +43,6 @@ I’m always open to collaboration, mentorship, and open-source contributions—
       <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /><br>Python
     </td>
     <td align="center">
-      <img width="60px" src="https://www.odoo.com/web/image/website/1/logo/Odoo" /><br>Odoo
-    </td>
-    <td align="center">
-      <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Xml_logo.svg/768px-Xml_logo.svg.png" /><br>XML
-    </td>
-    <td align="center">
       <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /><br>JavaScript
     </td>
   </tr>
