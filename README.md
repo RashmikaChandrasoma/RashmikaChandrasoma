@@ -61,10 +61,17 @@ I’m always open to collaboration, mentorship, and open-source contributions—
     </td>
   </tr>
 </table>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashmikachandrasoma" alt="rashmikachandrasoma" /></a> </p>
+<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 20px; border: 2px solid #238636; max-width: 800px; margin: auto;">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashmikachandrasoma&show_icons=true&locale=en&layout=compact" alt="rashmikachandrasoma" /></p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=rashmikachandrasoma&theme=tokyonight" alt="rashmikachandrasoma trophies" style="border-radius: 15px; margin-bottom: 20px; max-width: 100%;" />
+  </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashmikachandrasoma&show_icons=true&locale=en" alt="rashmikachandrasoma" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rashmikachandrasoma&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" style="border-radius: 15px; box-shadow: 0 0 15px #238636; margin-bottom: 20px;" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashmikachandrasoma&" alt="rashmikachandrasoma" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rashmikachandrasoma&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="github stats" style="border-radius: 15px; box-shadow: 0 0 15px #238636; margin-bottom: 20px;" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashmikachandrasoma&theme=tokyonight&hide_border=true" alt="streak stats" style="border-radius: 15px; box-shadow: 0 0 15px #238636;" />
+
+</div>
+
