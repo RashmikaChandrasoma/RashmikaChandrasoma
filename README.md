@@ -81,7 +81,6 @@ I’m always open to collaboration, mentorship, and open-source contributions—
       style="border-radius: 20px; margin-bottom: 25px; max-width: 100%; animation: bounce 2s infinite;" />
   </a>
   <p>
-    <img src="https://img.shields.io/github/languages/top/rashmikachandrasoma?style=for-the-badge&logo=github&logoColor=white&color=cyan&labelColor=blueviolet&animation=glitch" alt="Top Languages" style="margin: 5px;" />
     <img src="https://img.shields.io/github/stars/rashmikachandrasoma?style=for-the-badge&logo=github&logoColor=white&color=purple&labelColor=pink&animation=pulse" alt="Stars" style="margin: 5px;" />
     <img src="https://img.shields.io/github/followers/rashmikachandrasoma?style=for-the-badge&logo=github&logoColor=white&color=orange&labelColor=red&animation=ping" alt="Followers" style="margin: 5px;" />
   </p>
