@@ -61,17 +61,25 @@ I’m always open to collaboration, mentorship, and open-source contributions—
     </td>
   </tr>
 </table>
-<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 20px; border: 2px solid #238636; max-width: 800px; margin: auto;">
+<table width="100%" cellpadding="10" cellspacing="0" style="table-layout: fixed;">
+  <tr>
+    <td align="center" width="30%">
+      <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+        <img src="https://github-profile-trophy.vercel.app/?username=rashmikachandrasoma&theme=onedark" alt="rashmikachandrasoma trophies" style="border-radius: 15px; box-shadow: 0 3px 10px rgba(0,0,0,0.25);" />
+      </a>
+    </td>
+    <td align="center" width="30%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rashmikachandrasoma&show_icons=true&locale=en&layout=compact&theme=onedark" alt="rashmikachandrasoma top langs" style="border-radius: 15px; box-shadow: 0 3px 10px rgba(0,0,0,0.25);" />
+    </td>
+    <td align="center" width="30%">
+      <img src="https://github-readme-stats.vercel.app/api?username=rashmikachandrasoma&show_icons=true&locale=en&theme=onedark&hide_border=true" alt="rashmikachandrasoma stats" style="border-radius: 15px; box-shadow: 0 3px 10px rgba(0,0,0,0.25);" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" style="padding-top: 20px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashmikachandrasoma&theme=onedark&hide_border=true" alt="rashmikachandrasoma streak" style="border-radius: 15px; box-shadow: 0 3px 10px rgba(0,0,0,0.25);" />
+    </td>
+  </tr>
+</table>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=rashmikachandrasoma&theme=tokyonight" alt="rashmikachandrasoma trophies" style="border-radius: 15px; margin-bottom: 20px; max-width: 100%;" />
-  </a>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rashmikachandrasoma&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" style="border-radius: 15px; box-shadow: 0 0 15px #238636; margin-bottom: 20px;" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=rashmikachandrasoma&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="github stats" style="border-radius: 15px; box-shadow: 0 0 15px #238636; margin-bottom: 20px;" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashmikachandrasoma&theme=tokyonight&hide_border=true" alt="streak stats" style="border-radius: 15px; box-shadow: 0 0 15px #238636;" />
-
-</div>
 
