@@ -61,19 +61,6 @@ I’m always open to collaboration, mentorship, and open-source contributions—
     </td>
   </tr>
 </table>
-<!-- <div align="center" style="background-color: #f9f9f9; padding: 20px; border-radius: 20px; border: 2px solid #4caf50; max-width: 800px; margin: auto;">
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=rashmikachandrasoma&theme=flat" alt="rashmikachandrasoma trophies" style="border-radius: 15px; margin-bottom: 20px; max-width: 100%;" />
-  </a>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rashmikachandrasoma&show_icons=true&locale=en&layout=compact&theme=default" alt="top languages" style="border-radius: 15px; box-shadow: 0 0 15px #a5d6a7; margin-bottom: 20px;" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=rashmikachandrasoma&show_icons=true&locale=en&theme=default&hide_border=true" alt="github stats" style="border-radius: 15px; box-shadow: 0 0 15px #a5d6a7; margin-bottom: 20px;" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashmikachandrasoma&theme=default&hide_border=true" alt="streak stats" style="border-radius: 15px; box-shadow: 0 0 15px #a5d6a7;" />
-
-</div> -->
 
 <div align="center" style="
   background: linear-gradient(45deg, #ff6ec4, #7873f5, #4ade80, #facc15, #f97316, #ef4444);
@@ -85,38 +72,20 @@ I’m always open to collaboration, mentorship, and open-source contributions—
   margin: auto;
   box-shadow: 0 0 25px rgba(0,0,0,0.2);
   ">
-  
-  <style>
-    @keyframes rainbowBG {
-      0%{background-position:0% 50%}
-      50%{background-position:100% 50%}
-      100%{background-position:0% 50%}
-    }
-  </style>
 
-  <!-- Animated trophies GIF for fun -->
+  
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img 
       src="https://github-profile-trophy.vercel.app/?username=rashmikachandrasoma&theme=radical" 
       alt="rashmikachandrasoma trophies" 
       style="border-radius: 20px; margin-bottom: 25px; max-width: 100%; animation: bounce 2s infinite;" />
   </a>
-
-  <style>
-    @keyframes bounce {
-      0%, 100% { transform: translateY(0); }
-      50% { transform: translateY(-10px); }
-    }
-  </style>
-
-  <!-- Colorful animated badges -->
   <p>
     <img src="https://img.shields.io/github/languages/top/rashmikachandrasoma?style=for-the-badge&logo=github&logoColor=white&color=cyan&labelColor=blueviolet&animation=glitch" alt="Top Languages" style="margin: 5px;" />
     <img src="https://img.shields.io/github/stars/rashmikachandrasoma?style=for-the-badge&logo=github&logoColor=white&color=purple&labelColor=pink&animation=pulse" alt="Stars" style="margin: 5px;" />
     <img src="https://img.shields.io/github/followers/rashmikachandrasoma?style=for-the-badge&logo=github&logoColor=white&color=orange&labelColor=red&animation=ping" alt="Followers" style="margin: 5px;" />
   </p>
 
-  <!-- GitHub stats with colorful shadows -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=rashmikachandrasoma&show_icons=true&theme=radical&hide_border=true" 
     alt="GitHub Stats" 
@@ -127,7 +96,6 @@ I’m always open to collaboration, mentorship, and open-source contributions—
     alt="Top Languages" 
     style="border-radius: 20px; box-shadow: 0 0 20px #facc15, 0 0 40px #ef4444; margin-bottom: 25px; max-width: 100%;" />
 
-  <!-- Animated streak stats -->
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=rashmikachandrasoma&theme=radical&hide_border=true" 
     alt="GitHub Streak" 
