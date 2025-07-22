@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hirushini Rashmika Chandrasoma</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmikachandrasoma&label=Profile%20views&color=0e75b6&style=flat" alt="rashmikachandrasoma" /> </p>
-
 <div align="center">
   <h3 align="center">Junior Software Engineer @ Cygnus One • Specializing in Odoo ERP</h3>
 </div>
