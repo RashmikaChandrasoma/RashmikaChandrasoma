@@ -84,17 +84,17 @@ I’m always open to collaboration, mentorship, and open-source contributions—
   </p>
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=rashmikachandrasoma&show_icons=true&theme=radical&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=RashmikaChandrasoma&show_icons=true&theme=radical&hide_border=true" 
     alt="GitHub Stats" 
     style="border-radius: 20px; box-shadow: 0 0 20px #ff6ec4, 0 0 40px #4ade80; margin-bottom: 25px; max-width: 100%;" />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmikachandrasoma&layout=compact&theme=radical&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaChandrasoma&layout=compact&theme=radical&hide_border=true" 
     alt="Top Languages" 
     style="border-radius: 20px; box-shadow: 0 0 20px #facc15, 0 0 40px #ef4444; margin-bottom: 25px; max-width: 100%;" />
 
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rashmikachandrasoma&theme=radical&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=RashmikaChandrasoma&theme=radical&hide_border=true" 
     alt="GitHub Streak" 
     style="border-radius: 20px; box-shadow: 0 0 20px #7873f5, 0 0 40px #f97316; max-width: 100%;" />
 
